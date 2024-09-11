@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adeesha</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
-<img align="right" width="400" alt="gif_codeing" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
+<img align="right" width="200" alt="gif_codeing" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kbadeesha&label=Profile%20views&color=0e75b6&style=flat" alt="kbadeesha" /> </p>
 
