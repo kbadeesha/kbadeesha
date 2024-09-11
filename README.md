@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adeesha</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
+<Img align="right" width="400" sec="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kbadeesha&label=Profile%20views&color=0e75b6&style=flat" alt="kbadeesha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kbadeesha" alt="kbadeesha" /></a> </p>
