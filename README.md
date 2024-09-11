@@ -4,7 +4,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kbadeesha&label=Profile%20views&color=0e75b6&style=flat" alt="kbadeesha" /> </p>
-<img align="right" width="200" alt="gif_codeing" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kbadeesha" alt="kbadeesha" /></a> </p>
 
 - 🌱 I’m currently learning **NestJs**
@@ -14,7 +14,7 @@
 - 📫 How to reach me **adeesha.kristhorubaduge@gmail.com**
 
 - ⚡ Fun fact **Coffee is the answer to all problems**
-
+<img align="right" width="200" alt="gif_codeing" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adeesha-kristhorubaduge-579b46199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeesha-kristhorubaduge-579b46199" height="30" width="40" /></a>
