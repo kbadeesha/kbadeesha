@@ -84,7 +84,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=merko" alt="GitHub Stats" height="200" />
     </td>
     <td width="200" align="center" style="border: none!important; padding: 0; margin: 0; border="0"">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmsyMmtnenFvcXFiMnkzaWFpY2RycDh6dGJ0bjVvcTdsdnBleHJsaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kuWN0iF9BLQKk/giphy.gif" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
+      <img src="https://camo.githubusercontent.com/6ed8e6807ac833ab983c8754bf1d1a4fdbf65e8ac245079fddbf669861559b24/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578636d73794d6d746e656e4676635846694d6e6b7a61574670593252796344683664474a30626a567663546473646e426c65484a7361695a6c634431324d56397a64476c6a613256796331397a5a5746795932676d5933513963772f6b75574e30694639424c514b6b2f67697068792e676966" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
     </td>
   </tr>
 </table>
@@ -92,7 +92,7 @@
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="200" align="center" style="border: none; padding: 0; margin: 0;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFpOG56cjRhYWNlZTc5ampkaDk0MGo1bzZuenNhcW56NTJhc3RrdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/z8OcWLLk4SrpS/giphy.gif" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
+      <img src="https://camo.githubusercontent.com/76de4585d03a3e1cc62dc759cac538c64c27c7f5fdf7b944fb5a598f837a2092/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578596d46704f473536636a526859574e6c5a546335616d706b61446b304d476f31627a5a75656e4e68635735364e544a686333527264695a6c634431324d56397a64476c6a613256796331397a5a5746795932676d5933513963772f7a384f63574c4c6b34537270532f67697068792e676966" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
     </td>
     <td width="400" align="center" style="border: none; padding: 0; margin: 0;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=kbadeesha&theme=merko" alt="GitHub Streak" height="200" />
