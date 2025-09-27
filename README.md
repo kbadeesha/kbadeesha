@@ -26,7 +26,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&locale=en&layout=compact" alt="kbadeesha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&locale=en" alt="kbadeesha" /></p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=synthwave" />
+<img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=dark" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kbadeesha&" alt="kbadeesha" /></p>
