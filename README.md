@@ -96,25 +96,26 @@
 
 <div style="display:flex; flex-direction:column; gap:30px;">
 
-  <!-- Row 1: GIF left -->
+  <!-- Row 1: GIF left, stats right -->
   <div style="display:flex; align-items:center; gap:20px;">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmsyMmtnenFvcXFiMnkzaWFpY2RycDh6dGJ0bjVvcTdsdnBleHJsaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IQebREsGFRXmo/giphy.gif" width="150" alt="coding gif" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&locale=en&layout=compact" alt="Top Languages" />
   </div>
 
-  <!-- Row 2: GIF right -->
+  <!-- Row 2: GIF right, stats left -->
   <div style="display:flex; align-items:center; gap:20px; flex-direction:row-reverse;">
-    <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="150" alt="second gif" />
+    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150" alt="working gif" />
     <img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=merko" alt="GitHub Stats" />
   </div>
 
-  <!-- Row 3: GIF left -->
+  <!-- Row 3: GIF left, stats right -->
   <div style="display:flex; align-items:center; gap:20px;">
-    <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="150" alt="third gif" />
+    <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="150" alt="celebration gif" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kbadeesha&theme=merko" alt="GitHub Streak" />
   </div>
 
 </div>
+
 
 
 
