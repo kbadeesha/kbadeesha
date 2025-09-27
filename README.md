@@ -94,27 +94,34 @@
 
 ### 📊 GitHub Stats:
 
-<div style="display:flex; flex-direction:column; gap:30px;">
+<div style="display:flex; flex-direction:column; gap:30px; width:100%;">
 
   <!-- Row 1: GIF left, Top Languages right -->
-  <div style="display:flex; align-items:center; gap:20px;">
+  <div style="display:flex; align-items:center; gap:20px; width:100%;">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmsyMmtnenFvcXFiMnkzaWFpY2RycDh6dGJ0bjVvcTdsdnBleHJsaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IQebREsGFRXmo/giphy.gif" width="150" alt="coding gif" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&locale=en&layout=compact" alt="Top Languages" />
+    <div style="flex:1;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&locale=en&layout=compact" alt="Top Languages" style="width:100%;" />
+    </div>
   </div>
 
   <!-- Row 2: GIF right, GitHub Stats left -->
-  <div style="display:flex; align-items:center; gap:20px; flex-direction:row-reverse;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=merko" alt="GitHub Stats" />
+  <div style="display:flex; align-items:center; gap:20px; flex-direction:row-reverse; width:100%;">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmsyMmtnenFvcXFiMnkzaWFpY2RycDh6dGJ0bjVvcTdsdnBleHJsaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kuWN0iF9BLQKk/giphy.gif" width="150" alt="coding gif" />
+    <div style="flex:1;">
+      <img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=merko" alt="GitHub Stats" style="width:100%;" />
+    </div>
   </div>
 
   <!-- Row 3: GIF left, GitHub Streak right -->
-  <div style="display:flex; align-items:center; gap:20px;">
+  <div style="display:flex; align-items:center; gap:20px; width:100%;">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFpOG56cjRhYWNlZTc5ampkaDk0MGo1bzZuenNhcW56NTJhc3RrdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/z8OcWLLk4SrpS/giphy.gif" width="150" alt="coding gif" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kbadeesha&theme=merko" alt="GitHub Streak" />
+    <div style="flex:1;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kbadeesha&theme=merko" alt="GitHub Streak" style="width:100%;" />
+    </div>
   </div>
 
 </div>
+
 
 
 
