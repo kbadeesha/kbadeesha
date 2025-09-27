@@ -12,7 +12,7 @@
 - 💬 Ask me about **ReactJS, TypeScript, JavaScript**  
 - 📫 How to reach me: **adeesha.kristhorubaduge@gmail.com**  
 - ⚡ Fun fact: **Coffee is the answer to all problems**
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTh1ODM4a3VxbTlobTF5NDB0aHk3M3ExczFvbnBla2kzanRudHY4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0pKvMZLLgvLoaXVuo0/giphy.gif" alt="Cool GIF" width="100%" height="250" /> 
+<img src="https://camo.githubusercontent.com/9818a6d4662414e19fe2c88d3da8a51ec2a60aec5e6dbc8b2c898b556753796a/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578655468314f444d346133567862546c6f625446354e44423061486b334d334578637a4676626e426c61326b7a616e5275644859345a695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f30704b764d5a4c4c67764c6f615856756f302f67697068792e676966" alt="Cool GIF" width="100%" height="250" /> 
 
 🌐 Connect with me:
 <p align="left">
