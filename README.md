@@ -99,7 +99,7 @@
     <td width="200" align="center">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmsyMmtnenFvcXFiMnkzaWFpY2RycDh6dGJ0bjVvcTdsdnBleHJsaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IQebREsGFRXmo/giphy.gif" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
     </td>
-    <td width="400" align="center">
+    <td width="400" align="center" border="0px">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&locale=en&layout=compact" alt="Top Languages" height="200" />
     </td>
   </tr>
