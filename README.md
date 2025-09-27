@@ -27,7 +27,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool GIF" width="100%" height="250" /> -->
 
 <div>
-  <img align="right" width="80" alt="tech" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJmc2VseHl2ZGRndm41NnZudHI4bGRydHcxdGE4a3cxOXQwemtmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzWMBa9V3z8jHJCEC7/giphy.gif" alt="Tech GIF" /> Technologies
+  <img align="right" width="30" alt="tech" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJmc2VseHl2ZGRndm41NnZudHI4bGRydHcxdGE4a3cxOXQwemtmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzWMBa9V3z8jHJCEC7/giphy.gif" alt="Tech GIF" /> Technologies
 <div/>
 <p align="left">
   <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" width="40" height="40"/></a>
