@@ -96,25 +96,26 @@
 
 <div style="display:flex; flex-direction:column; gap:30px;">
 
-  <!-- Row 1: GIF left, stat right -->
+  <!-- Row 1: GIF left, Top Languages right -->
   <div style="display:flex; align-items:center; gap:20px;">
     <img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="150" alt="coding gif" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&locale=en&layout=compact" alt="Top Languages" />
   </div>
 
-  <!-- Row 2: GIF right, stat left -->
+  <!-- Row 2: GIF right, GitHub Stats left -->
   <div style="display:flex; align-items:center; gap:20px; flex-direction:row-reverse;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&locale=en&layout=compact" alt="Top Languages" />
     <img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="150" alt="coding gif" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=merko" alt="GitHub Stats" />
   </div>
 
-  <!-- Row 3: GIF left, stat right -->
+  <!-- Row 3: GIF left, GitHub Streak right -->
   <div style="display:flex; align-items:center; gap:20px;">
     <img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="150" alt="coding gif" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&locale=en&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kbadeesha&theme=merko" alt="GitHub Streak" />
   </div>
 
 </div>
+
 
 
 
