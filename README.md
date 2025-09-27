@@ -1,15 +1,4 @@
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: none;
-}
-blockquote {
-    border-left: none;
-    padding-left: 10px;
-}
-</style>
+
 <h1 align="center">Hi 👋, I'm Adeesha Kristhorubaduge</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
