@@ -15,7 +15,7 @@
 
 ---
 
-### 🌐 Connect with me:
+🌐 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/adeesha-kristhorubaduge-579b46199" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -26,8 +26,6 @@
 </p>
 
 ---
-
-### 🧰 Languages and Tools:
 <p align="left">
   🧰 Languages & Frameworks
 <p align="left"> <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" width="40" height="40"/> </a> <a href="https://angular.io/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="Angular" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" width="40" height="40"/> </a> <a href="https://redux.js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" alt="Redux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" width="40" height="40"/> </a> <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" alt="Nest.js" width="40" height="40"/> </a> <a href="https://vitejs.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/babel.png" alt="Babel" width="40" height="40"/> </a> </p>
@@ -45,7 +43,7 @@
 
 ---
 
-### 📊 GitHub Stats:
+📊 GitHub Stats:
 
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr>
