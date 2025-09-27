@@ -94,9 +94,9 @@
 
 ### 📊 GitHub Stats:
 
-<!-- Row 1: GIF on left, Top Languages on right -->
 <div align="center">
   <table>
+    <!-- Row 1: Top Languages -->
     <tr>
       <td align="left" width="40%">
         <img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="250" alt="coding gif" />
@@ -105,13 +105,24 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&locale=en&layout=compact" alt="Top Languages" />
       </td>
     </tr>
+    <!-- Row 2: GitHub Stats -->
+    <tr>
+      <td align="left" width="40%">
+        <img src="GIF_LINK_2" width="250" alt="second gif" />
+      </td>
+      <td align="right" width="60%">
+        <img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=merko" alt="GitHub Stats" />
+      </td>
+    </tr>
+    <!-- Row 3: Streak Stats -->
+    <tr>
+      <td align="left" width="40%">
+        <img src="GIF_LINK_3" width="250" alt="third gif" />
+      </td>
+      <td align="right" width="60%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kbadeesha&theme=merko" alt="GitHub Streak" />
+      </td>
+    </tr>
   </table>
 </div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=merko" alt="GitHub Stats" />
-</p>
-
-<p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kbadeesha&theme=merko" alt="GitHub Streak" />
-</p>
