@@ -14,6 +14,7 @@
 - ⚡ Fun fact: **Coffee is the answer to all problems**
 
 ---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool GIF" width="250" height="250" />
 
 🌐 Connect with me:
 <p align="left">
