@@ -96,7 +96,7 @@
 
 <div align="center">
   <table width="100%">
-    <!-- Row 1: Top Languages -->
+    <!-- Row 1: Top Languages (GIF left) -->
     <tr>
       <td align="left" width="40%">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmsyMmtnenFvcXFiMnkzaWFpY2RycDh6dGJ0bjVvcTdsdnBleHJsaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IQebREsGFRXmo/giphy.gif" width="150" alt="coding gif" />
@@ -105,16 +105,16 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&locale=en&layout=compact" alt="Top Languages" />
       </td>
     </tr>
-    <!-- Row 2: GitHub Stats -->
+    <!-- Row 2: GitHub Stats (GIF right) -->
     <tr>
-      <td align="left" width="40%">
-        <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="150" alt="second gif" />
-      </td>
-      <td align="right" width="60%">
+      <td align="left" width="60%">
         <img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=merko" alt="GitHub Stats" />
       </td>
+      <td align="right" width="40%">
+        <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="150" alt="second gif" />
+      </td>
     </tr>
-    <!-- Row 3: Streak Stats -->
+    <!-- Row 3: Streak Stats (GIF left) -->
     <tr>
       <td align="left" width="40%">
         <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="150" alt="third gif" />
@@ -125,5 +125,6 @@
     </tr>
   </table>
 </div>
+
 
 
