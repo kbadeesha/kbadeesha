@@ -94,33 +94,38 @@
 
 ### 📊 GitHub Stats:
 
-<div style="display:flex; flex-direction:column; gap:20px; width:100%;">
+<table>
+  <tr>
+    <td width="200" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmsyMmtnenFvcXFiMnkzaWFpY2RycDh6dGJ0bjVvcTdsdnBleHJsaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IQebREsGFRXmo/giphy.gif" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
+    </td>
+    <td width="400" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&locale=en&layout=compact" alt="Top Languages" height="200" />
+    </td>
+  </tr>
+</table>
 
-  <!-- Row 1: GIF left, Top Languages right -->
-  <div style="display:flex; align-items:center; gap:15px; width:100%; height:200px;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmsyMmtnenFvcXFiMnkzaWFpY2RycDh6dGJ0bjVvcTdsdnBleHJsaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IQebREsGFRXmo/giphy.gif" width="200" height="200" alt="coding gif" style="object-fit:cover; border-radius:8px;" />
-    <div style="flex:1; display:flex; justify-content:center; height:200px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&locale=en&layout=compact" alt="Top Languages" style="height:200px; width:400px;" />
-    </div>
-  </div>
+<table>
+  <tr>
+    <td width="400" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=merko" alt="GitHub Stats" height="200" />
+    </td>
+    <td width="200" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmsyMmtnenFvcXFiMnkzaWFpY2RycDh6dGJ0bjVvcTdsdnBleHJsaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kuWN0iF9BLQKk/giphy.gif" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
+    </td>
+  </tr>
+</table>
 
-  <!-- Row 2: GIF right, GitHub Stats left -->
-  <div style="display:flex; align-items:center; gap:15px; flex-direction:row-reverse; width:100%; height:200px;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmsyMmtnenFvcXFiMnkzaWFpY2RycDh6dGJ0bjVvcTdsdnBleHJsaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kuWN0iF9BLQKk/giphy.gif" width="200" height="200" alt="coding gif" style="object-fit:cover; border-radius:8px;" />
-    <div style="flex:1; display:flex; justify-content:center; height:200px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=merko" alt="GitHub Stats" style="height:200px; width:400px;" />
-    </div>
-  </div>
-
-  <!-- Row 3: GIF left, GitHub Streak right -->
-  <div style="display:flex; align-items:center; gap:15px; width:100%; height:200px;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFpOG56cjRhYWNlZTc5ampkaDk0MGo1bzZuenNhcW56NTJhc3RrdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/z8OcWLLk4SrpS/giphy.gif" width="200" height="200" alt="coding gif" style="object-fit:cover; border-radius:8px;" />
-    <div style="flex:1; display:flex; justify-content:center; height:200px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kbadeesha&theme=merko" alt="GitHub Streak" style="height:200px; width:400px;" />
-    </div>
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td width="200" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFpOG56cjRhYWNlZTc5ampkaDk0MGo1bzZuenNhcW56NTJhc3RrdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/z8OcWLLk4SrpS/giphy.gif" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
+    </td>
+    <td width="400" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kbadeesha&theme=merko" alt="GitHub Streak" height="200" />
+    </td>
+  </tr>
+</table>
 
 
 
