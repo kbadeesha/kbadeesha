@@ -70,7 +70,7 @@
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="200" align="center" style="border: none; padding: 0; margin: 0;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmsyMmtnenFvcXFiMnkzaWFpY2RycDh6dGJ0bjVvcTdsdnBleHJsaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IQebREsGFRXmo/giphy.gif" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
+      <img src="https://camo.githubusercontent.com/ab3288fe55957cfdd2008fd653ae1b59825df5ce0a51a99203638c7d570d8e9c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578636d73794d6d746e656e4676635846694d6e6b7a61574670593252796344683664474a30626a567663546473646e426c65484a7361695a6c634431324d56397a64476c6a613256796331397a5a5746795932676d5933513963772f49516562524573474652586d6f2f67697068792e676966" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
     </td>
     <td width="400" align="center" style="border: none; padding: 0; margin: 0;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&locale=en&layout=compact" alt="Top Languages" height="200" />
