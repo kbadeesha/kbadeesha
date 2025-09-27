@@ -104,8 +104,8 @@
 
   <!-- Row 2: GIF right, GitHub Stats left -->
   <div style="display:flex; align-items:center; gap:20px; flex-direction:row-reverse;">
-    <img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="150" alt="coding gif" />
     <img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=merko" alt="GitHub Stats" />
+        <img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="150" alt="coding gif" />
   </div>
 
   <!-- Row 3: GIF left, GitHub Streak right -->
