@@ -6,13 +6,13 @@
   <img src="https://komarev.com/ghpvc/?username=kbadeesha&label=Profile%20views&color=0e75b6&style=flat" alt="kbadeesha" />
 </p>
 <img align="right" width="250" alt="coding" src="https://camo.githubusercontent.com/b1847cc9cf7f394e8f3e8ad831b4ea0d4216e5acbe2f7b7afbac65b37bd1410f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a5768714d475177656e426e615852695a6a5a6f4e5445314e475a6a6232396965444a70636a4631636d6c6a62334e6a624455324d795a6c634431324d56397a64476c6a613256796331397a5a5746795932676d5933513963772f6e4d79384854465152577075644e776278512f67697068792e676966" alt="Header GIF" />
-<hr/>
+
 - 🌱 I’m currently learning **NestJS**  
 - 💬 Ask me about **ReactJS, TypeScript, JavaScript**  
 - 📫 How to reach me: **adeesha.kristhorubaduge@gmail.com**  
 - ⚡ Fun fact: **Coffee is the answer to all problems**
 
-
+<hr/>
 🌐 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/adeesha-kristhorubaduge-579b46199" target="_blank">
@@ -22,7 +22,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
-
+<hr/>
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool GIF" width="100%" height="250" /> -->
 <p align="left">
   <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" width="40" height="40"/></a>
