@@ -28,4 +28,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=merko" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kbadeesha&" alt="kbadeesha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kbadeesha&theme=merko" alt="kbadeesha" /></p>
