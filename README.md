@@ -93,26 +93,7 @@
 ---
 
 ### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmsyMmtnenFvcXFiMnkzaWFpY2RycDh6dGJ0bjVvcTdsdnBleHJsaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IQebREsGFRXmo/giphy.gif" width="200" height="200" style="border-radius:8px; display:inline-block; margin-right:10px;" alt="coding gif" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&locale=en&layout=compact" height="200" style="display:inline-block;" alt="Top Languages" />
-</div>
-<div align="center" style="display:flex; gap:10px; flex-wrap: wrap; justify-content:center;">
-  <!-- First table content -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmsyMmtnenFvcXFiMnkzaWFpY2RycDh6dGJ0bjVvcTdsdnBleHJsaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IQebREsGFRXmo/giphy.gif" width="200" height="200" style="border-radius:8px; display:block;" alt="coding gif" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&locale=en&layout=compact" height="200" style="display:block;" alt="Top Languages" />
-</div>
 
-<br/>
-
-<div align="center" style="display:flex; gap:10px; flex-wrap: wrap; justify-content:center;">
-  <!-- Second table content -->
-  <img src="YOUR_SECOND_TABLE_IMAGE_1.gif" width="200" height="200" style="border-radius:8px; display:block;" alt="Second Table Image 1" />
-  
-  <img src="YOUR_SECOND_TABLE_IMAGE_2.png" height="200" style="display:block;" alt="Second Table Image 2" />
-</div>
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="200" align="center" style="border: none; padding: 0; margin: 0;">
