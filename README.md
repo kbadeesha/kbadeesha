@@ -137,14 +137,21 @@
 <div align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmsyMmtnenFvcXFiMnkzaWFpY2RycDh6dGJ0bjVvcTdsdnBleHJsaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IQebREsGFRXmo/giphy.gif" width="200" height="200" style="border-radius:8px; display:inline-block; margin-right:10px;" alt="coding gif" />
   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&locale=en&layout=compact" height="200" style="display:inline-block;" alt="Top Languages" />
+</div>
+
+<div align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmsyMmtnenFvcXFiMnkzaWFpY2RycDh6dGJ0bjVvcTdsdnBleHJsaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/kuWN0iF9BLQKk/giphy.gif" width="200" height="200" style="border-radius:8px; display:inline-block; margin-right:10px;" alt="coding gif" />
+  
   <img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=merko&locale=en" height="200" style="display:inline-block;" alt="GitHub Stats" />
 </div>
 
 <div align="left">
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmsyMmtnenFvcXFiMnkzaWFpY2RycDh6dGJ0bjVvcTdsdnBleHJsaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q/IQebREsGFRXmo/giphy.gif" width="200" height="200" style="border-radius:8px; display:inline-block; margin-right:10px;" alt="coding gif" />
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFpOG56cjRhYWNlZTc5ampkaDk0MGo1bzZuenNhcW56NTJhc3RrdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/z8OcWLLk4SrpS/giphy.gif" width="200" height="200" style="border-radius:8px; display:inline-block; margin-right:10px;" alt="coding gif" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&locale=en&layout=compact" height="200" style="display:inline-block;" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kbadeesha&theme=merko" height="200" style="display:inline-block;" alt="GitHub Streak" />
 </div>
+
 
 
 
