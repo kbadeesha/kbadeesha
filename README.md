@@ -95,11 +95,11 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <table>
+  <table width="100%">
     <!-- Row 1: Top Languages -->
     <tr>
       <td align="left" width="40%">
-        <img     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmsyMmtnenFvcXFiMnkzaWFpY2RycDh6dGJ0bjVvcTdsdnBleHJsaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IQebREsGFRXmo/giphy.gif" width="150" alt="coding gif" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmsyMmtnenFvcXFiMnkzaWFpY2RycDh6dGJ0bjVvcTdsdnBleHJsaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IQebREsGFRXmo/giphy.gif" width="150" alt="coding gif" />
       </td>
       <td align="right" width="60%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&locale=en&layout=compact" alt="Top Languages" />
@@ -107,17 +107,17 @@
     </tr>
     <!-- Row 2: GitHub Stats -->
     <tr>
-        <td align="left" width="60%">
-        <img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=merko" alt="GitHub Stats" />
+      <td align="left" width="40%">
+        <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="150" alt="second gif" />
       </td>
-      <td align="right" width="40%">
-        <img src="GIF_LINK_2" width="250" alt="second gif" />
+      <td align="right" width="60%">
+        <img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=merko" alt="GitHub Stats" />
       </td>
     </tr>
     <!-- Row 3: Streak Stats -->
     <tr>
       <td align="left" width="40%">
-        <img src="GIF_LINK_3" width="250" alt="third gif" />
+        <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="150" alt="third gif" />
       </td>
       <td align="right" width="60%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=kbadeesha&theme=merko" alt="GitHub Streak" />
@@ -125,4 +125,5 @@
     </tr>
   </table>
 </div>
+
 
