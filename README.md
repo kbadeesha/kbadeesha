@@ -7,7 +7,7 @@
 </p>
 <img align="right" width="250" alt="coding" src="https://camo.githubusercontent.com/b1847cc9cf7f394e8f3e8ad831b4ea0d4216e5acbe2f7b7afbac65b37bd1410f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a5768714d475177656e426e615852695a6a5a6f4e5445314e475a6a6232396965444a70636a4631636d6c6a62334e6a624455324d795a6c634431324d56397a64476c6a613256796331397a5a5746795932676d5933513963772f6e4d79384854465152577075644e776278512f67697068792e676966" alt="Header GIF" />
 
-- 🌱 I’m currently learning **NestJS** <img align="right" width="10" alt="coding" src="https://camo.githubusercontent.com/b1847cc9cf7f394e8f3e8ad831b4ea0d4216e5acbe2f7b7afbac65b37bd1410f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a5768714d475177656e426e615852695a6a5a6f4e5445314e475a6a6232396965444a70636a4631636d6c6a62334e6a624455324d795a6c634431324d56397a64476c6a613256796331397a5a5746795932676d5933513963772f6e4d79384854465152577075644e776278512f67697068792e676966" alt="Header GIF" />
+- 🌱 I’m currently learning **NestJS** 
 - 💬 Ask me about **ReactJS, TypeScript, JavaScript**  
 - 📫 How to reach me: **adeesha.kristhorubaduge@gmail.com**  
 - ⚡ Fun fact: **Coffee is the answer to all problems**
@@ -24,6 +24,7 @@
 </p>
 <hr/>
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool GIF" width="100%" height="250" /> -->
+<img align="right" width="800" alt="tech" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJmc2VseHl2ZGRndm41NnZudHI4bGRydHcxdGE4a3cxOXQwemtmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzWMBa9V3z8jHJCEC7/giphy.gif" alt="Tech GIF" /> Technologies
 <p align="left">
   <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" width="40" height="40"/></a>
