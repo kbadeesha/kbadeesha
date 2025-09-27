@@ -7,7 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="assets/header.gif" alt="Header GIF" width="300" height="300" />
+  <video width="300" height="300" autoplay loop muted playsinline>
+    <source src="assets/header.gif" type="image/gif">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 <img align="right" width="250" alt="coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhqMGQwenBnaXRiZjZoNTE1NGZjb29ieDJpcjF1cmljb3NjbDU2MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/nMy8HTFQRWpudNwbxQ/giphy.gif" />
