@@ -94,17 +94,6 @@
 
 ### 📊 GitHub Stats:
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
-  <tr>
-    <td width="200" align="center" style="border: none;">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmsyMmtnenFvcXFiMnkzaWFpY2RycDh6dGJ0bjVvcTdsdnBleHJsaiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IQebREsGFRXmo/giphy.gif" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
-    </td>
-    <td width="400" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&locale=en&layout=compact" alt="Top Languages" height="200" />
-    </td>
-  </tr>
-</table>
-
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="200" align="center" style="border: none; padding: 0; margin: 0;">
@@ -137,6 +126,8 @@
     </td>
   </tr>
 </table>
+
+
 
 
 
