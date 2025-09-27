@@ -88,21 +88,30 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a>
-  <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.gif" width="40" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<!-- Row 1: GIF on left, Top Languages on right -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" width="40%">
+        <img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="250" alt="coding gif" />
+      </td>
+      <td align="right" width="60%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&locale=en&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=merko" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kbadeesha&theme=merko" alt="GitHub Streak" />
 </p>
