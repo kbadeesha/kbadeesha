@@ -6,9 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=kbadeesha&label=Profile%20views&color=0e75b6&style=flat" alt="kbadeesha" />
 </p>
 
-<p align="center">
-  <img src="assets/header.gif" alt="Header GIF" width="100%" />
-</p>
  
 <img align="right" width="250" alt="coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhqMGQwenBnaXRiZjZoNTE1NGZjb29ieDJpcjF1cmljb3NjbDU2MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/nMy8HTFQRWpudNwbxQ/giphy.gif" />
 
