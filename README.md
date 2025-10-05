@@ -96,12 +96,10 @@
     </td>
     <td width="400" align="center" style="border: none; padding: 0; margin: 0;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=kbadeesha&theme=merko" height="200" style="display:inline-block;" alt="GitHub Streak" />
-      [![Adeesha's github stats](https://github-readme-stats.vercel.app/api?username=kbadeesha&count_private=true&include_all_commits=true&theme=merko)](https://google.com)
     </td>
   </tr>
 </table>
 <hr/>
-[![Adeshas's github stats](https://github-readme-stats.vercel.app/api?username=kbadeesha&count_private=true&include_all_commits=true&theme=radical)](https://google.com)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
 
 
