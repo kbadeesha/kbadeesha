@@ -94,7 +94,7 @@
       <img src="https://camo.githubusercontent.com/76de4585d03a3e1cc62dc759cac538c64c27c7f5fdf7b944fb5a598f837a2092/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578596d46704f473536636a526859574e6c5a546335616d706b61446b304d476f31627a5a75656e4e68635735364e544a686333527264695a6c634431324d56397a64476c6a613256796331397a5a5746795932676d5933513963772f7a384f63574c4c6b34537270532f67697068792e676966" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
     </td>
     <td width="400" align="center" style="border: none; padding: 0; margin: 0;">
-        <img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&theme=merko" height="200" style="display:inline-block;" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kbadeesha&theme=merko" height="200" style="display:inline-block;" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
