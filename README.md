@@ -99,7 +99,9 @@
     </td>
   </tr>
 </table>
+<div>
  ![Adee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=onedark)
+  <div/>
 <hr/>
 
 
