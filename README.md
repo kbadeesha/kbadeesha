@@ -99,12 +99,9 @@
     </td>
   </tr>
 </table>
-<div>
- ![Adee's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=onedark)
+  <div>
+  <img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=merko" alt="Adee's GitHub stats">
   <div/>
-    <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=onedark" alt="Adee's GitHub stats">
-</div>
 
 <hr/>
 
