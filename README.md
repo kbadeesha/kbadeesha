@@ -104,4 +104,6 @@
 
 
 [![Adeeshas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbadeesha)](https://github.com/kbadeesha/github-readme-stats)
+[![Adeeshas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=merko)](https://github.com/kbadeesha)
+
 
