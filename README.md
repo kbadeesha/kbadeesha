@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **NestJS**  &  **GoLang** 
 - 💬 Ask me about **ReactJS, AngularJs, NextJs, TypeScript, JavaScript & Chatbot Develpoment**  
 - 📫 How to reach me: **adeesha.kristhorubaduge@gmail.com**  
-- ⚡ Fun fact: **Coffee is the answer to all problems**
+- ⚡ Fun fact: **I build things to learn, and I learn things to build.**
 
 <hr/>
 🌐 Connect with me:
