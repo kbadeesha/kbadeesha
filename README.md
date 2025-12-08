@@ -96,10 +96,10 @@
     </td>
     <td width="400" align="center" style="border: none; padding: 0; margin: 0;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=kbadeesha&theme=merko" height="200" style="display:inline-block;" alt="GitHub Streak" />
+      <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=kbadeesha&theme=monokai&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 <hr/>
 
 
