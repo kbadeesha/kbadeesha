@@ -12,7 +12,9 @@
 - 📫 How to reach me: **adeesha.kristhorubaduge@gmail.com**  
 - ⚡ Fun fact: **I build things to learn, and I learn things to build.**
   
-<hr/>[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=If%20it%20works%2C%20don%27t%20touch%20it.&author=Every%20Programmer%20Ever&theme=merko)](https://github.com/PiyushSuthar/github-readme-quotes)<hr/>
+<hr/>
+[![GitHub Quotes](https://quotes-github-readme.vercel.app/api?quote=If%20it%20works%2C%20don%27t%20touch%20it.&author=Every%20Programmer%20Ever&theme=merko)](https://quotes-github-readme.vercel.app/)
+<hr/>
 🌐 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/adeesha-kristhorubaduge-579b46199" target="_blank">
