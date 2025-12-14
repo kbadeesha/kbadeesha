@@ -96,6 +96,7 @@
     </td>
     <td width="400" align="center" style="border: none; padding: 0; margin: 0;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=kbadeesha&theme=merko" height="200" style="display:inline-block;" alt="GitHub Streak" />
+       <img src="https://github-readme-streak-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=merko" alt="GitHub Stats" height="200" />
     </td>
   </tr>
 </table>
