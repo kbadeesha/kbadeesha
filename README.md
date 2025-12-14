@@ -13,10 +13,7 @@
 - ⚡ Fun fact: **I build things to learn, and I learn things to build.**
   
 <hr/>
-<img src="https://quotes-github-readme.vercel.app/api?quote=If%20it%20works%2C%20don%27t%20touch%20it.&author=Every%20Programmer%20Ever&theme=merko" alt="GitHub Quotes" />
-<hr/>
-<hr/>
-<img src="https://quotes-github-readme.vercel.app/api?quote=If%20it%20works%2C%20don%27t%20touch%20it.&author=Every%20Programmer%20Ever&theme=merko&type=horizontal" alt="GitHub Quotes" height="150" />
+<img src="https://quotes-github-readme.vercel.app/api?quote=If%20we%20are%20not%20willing%20to%20learn%20from%20the%20mistakes%20of%20the%20past%2C%20we%20are%20doomed%20to%20repeat%20them.%20And%20software%20developers%20are%20very%20good%20at%20repeating%20mistakes.&author=Richard%20E.%20Pattis&theme=merko&type=horizontal" alt="GitHub Quotes" height="150" />
 <hr/>
 
 🌐 Connect with me:
