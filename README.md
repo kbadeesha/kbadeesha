@@ -13,7 +13,7 @@
 - ⚡ Fun fact: **I build things to learn, and I learn things to build.**
   
 <hr/>
-<img src="https://quotes-github-readme.vercel.app/api?theme=merko&type=horizontal" alt="Random Programming Quote" height="150" />
+<img src="https://quotes-github-readme.vercel.app/api?quote=I%20see%20now%20that%20the%20circumstances%20of%20one%27s%20birth%20are%20irrelevant.%20It%20is%20what%20you%20do%20with%20the%20gift%20of%20life%20that%20determines%20who%20you%20are.&author=Mewtwo&theme=merko&type=horizontal" alt="Pokémon Quote" height="150" />
 <hr/>
 
 🌐 Connect with me:
