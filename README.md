@@ -102,6 +102,8 @@
 </table>
 <hr/>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/PiyushSuthar/github-readme-quotes)
+
 
 
 
