@@ -11,7 +11,9 @@
 - 💬 Ask me about **ReactJS, AngularJs, NextJs, TypeScript, JavaScript & Chatbot Develpoment**  
 - 📫 How to reach me: **adeesha.kristhorubaduge@gmail.com**  
 - ⚡ Fun fact: **I build things to learn, and I learn things to build.**
-
+  
+<hr/>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Test&author=Adeesha Kristo&theme=dark)](https://github.com/PiyushSuthar/github-readme-quotes)
 <hr/>
 🌐 Connect with me:
 <p align="left">
@@ -102,7 +104,7 @@
 </table>
 <hr/>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/PiyushSuthar/github-readme-quotes)
+
 
 
 
