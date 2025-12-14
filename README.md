@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Adeesha Kristhorubaduge</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
-✨ Favorite Quote:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kbadeesha&label=Profile%20views&color=0e75b6&style=flat" alt="kbadeesha" />
 </p>
@@ -14,6 +13,8 @@
 - ⚡ Fun fact: **I build things to learn, and I learn things to build.**
   
 <hr/>
+✨ Favorite Quote:
+
 <img src="https://quotes-github-readme.vercel.app/api?quote=I%20see%20now%20that%20the%20circumstances%20of%20one%27s%20birth%20are%20irrelevant.%20It%20is%20what%20you%20do%20with%20the%20gift%20of%20life%20that%20determines%20who%20you%20are.&author=Mewtwo&theme=merko&type=horizontal" alt="Pokémon Quote" height="150" />
 <hr/>
 
