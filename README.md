@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=kbadeesha&label=Profile%20views&color=0e75b6&style=flat" alt="kbadeesha" />
 </p>
 <!-- <img align="right" width="250" alt="coding" src="https://camo.githubusercontent.com/b1847cc9cf7f394e8f3e8ad831b4ea0d4216e5acbe2f7b7afbac65b37bd1410f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a5768714d475177656e426e615852695a6a5a6f4e5445314e475a6a6232396965444a70636a4631636d6c6a62334e6a624455324d795a6c634431324d56397a64476c6a613256796331397a5a5746795932676d5933513963772f6e4d79384854465152577075644e776278512f67697068792e676966" alt="Header GIF" /> -->
-<img align="right" width="250" alt="coding" src="https://media.giphy.com/media/nMy8HTFQRWpudNwbxQ/giphy.gif">
+<img align="right" width="250" alt="coding" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhqMGQwNWE5NTE1NGZjb29ieDJsZjZjNTUyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nMy8HTFQRWpudNwbxQ/giphy.gif">
 - 🌱 I’m currently learning **NestJS**  &  **GoLang** 
 - 💬 Ask me about **ReactJS, AngularJs, NextJs, TypeScript, JavaScript & Chatbot Develpoment**  
 - 📫 How to reach me: **adeesha.kristhorubaduge@gmail.com**  
