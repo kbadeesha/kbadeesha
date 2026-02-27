@@ -107,7 +107,7 @@
   </tr>
 </table>
 <hr/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&layout=compact&hide_border=true&count_private=true&v=1" alt="Top Languages" height="200" />
 
 
 
