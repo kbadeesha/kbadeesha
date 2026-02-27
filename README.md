@@ -76,41 +76,6 @@
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="200" align="center" style="border: none; padding: 0; margin: 0;">
-     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9udGJxZ3lkcHIzYWZrNzVkMmxkNjIzajl0emQ1MWlhcGpjZDRhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IQebREsGFRXmo/giphy.gif" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
-    </td>
-    <td width="400" align="center" style="border: none; padding: 0; margin: 0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&locale=en&layout=compact" alt="Top Languages" height="200" />
-    </td>
-  </tr>
-</table>
-
-<table border="0" cellpadding="0" cellspacing="0" style="border: none !important; border-collapse: collapse;">
-  <tr>
-    <td width="400" align="center" style="border: none; padding: 0; margin: 0;">
-      <img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=merko" alt="GitHub Stats" height="200" />
-    </td>
-    <td width="200" align="center" style="border: none!important; padding: 0; margin: 0; border="0"">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RhZnAyZWYyeXEzZGo4ZG51am1kOXY3bW81Mm5zYjlsbjE5dGh5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kuWN0iF9BLQKk/giphy.gif" width="200"  alt="coding gif" style="border-radius:8px;" />
-    </td>
-  </tr>
-</table>
-
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td width="200" align="center" style="border: none; padding: 0; margin: 0;">
-      <img src="https://media.giphy.com/media/z8OcWLLk4SrpS/giphy.gif" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
-    </td>
-    <td width="400" align="center" style="border: none; padding: 0; margin: 0;">
-        <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=kbadeesha&theme=merko" height="200" style="display:inline-block;" alt="GitHub Streak" /> -->
-       <img src="https://streak-stats.demolab.com/?user=kbadeesha&theme=merko&hide_border=true&date_format=j%20M%5B%2C%20Y%5D" alt="GitHub Streak Stats" height="200" />
-    </td>
-  </tr>
-</table>
-<hr/>
-<h3 align="left">📊 GitHub Stats:</h3>
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td width="200" align="center" style="border: none; padding: 0; margin: 0;">
      <img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
     </td>
     <td width="400" align="center" style="border: none; padding: 0; margin: 0;">
