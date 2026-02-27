@@ -1,8 +1,4 @@
 
-<img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
-
-
-
 <h1 align="center">Hi 👋, I'm Adeesha Kristhorubaduge</h1>
 <h3 align="center">A passionate full stack developer from Canada</h3>
 
