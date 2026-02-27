@@ -1,4 +1,8 @@
 
+<img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
+
+
+
 <h1 align="center">Hi 👋, I'm Adeesha Kristhorubaduge</h1>
 <h3 align="center">A passionate full stack developer from Canada</h3>
 
@@ -107,6 +111,4 @@
 </table>
 <hr/>
 
-<img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
-![9fb125f1fedc8cc62ab5b20699ebd87d](https://github.com/user-attachments/assets/2234e473-57d3-4460-bc24-033020bb7ec4)
 
