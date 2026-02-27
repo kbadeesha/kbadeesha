@@ -6,11 +6,12 @@
   <img src="https://komarev.com/ghpvc/?username=kbadeesha&label=Profile%20views&color=0e75b6&style=flat" alt="kbadeesha" />
 </p>
 
+<img align="right" width="250" alt="coding" src="https://media.giphy.com/media/nMy8HTFQRWpudNwbxQ/giphy.gif">
+
 - 🌱 I’m currently learning **NestJS**  &  **GoLang** 
 - 💬 Ask me about **ReactJS, AngularJs, NextJs, TypeScript, JavaScript & Chatbot Develpoment**  
 - 📫 How to reach me: **adeesha.kristhorubaduge@gmail.com**  
 - ⚡ Fun fact: **I build things to learn, and I learn things to build.**
-  <img align="right" width="250" alt="coding" src="https://media.giphy.com/media/nMy8HTFQRWpudNwbxQ/giphy.gif">
 <hr/>
 <h3 align="left">✨ Favorite Quote:</h3>
 <p align="center">
