@@ -107,5 +107,5 @@
 </table>
 <hr/>
 
-
+<img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
 
