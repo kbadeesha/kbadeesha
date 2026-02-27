@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Adeesha Kristhorubaduge</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate full stack developer from Canada</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kbadeesha&label=Profile%20views&color=0e75b6&style=flat" alt="kbadeesha" />
@@ -107,11 +107,40 @@
   </tr>
 </table>
 <hr/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&layout=compact&hide_border=true&count_private=true&v=1" alt="Top Languages" height="200" />
+<h3 align="left">📊 GitHub Stats:</h3>
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="200" align="center" style="border: none; padding: 0; margin: 0;">
+     <img src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
+    </td>
+    <td width="400" align="center" style="border: none; padding: 0; margin: 0;">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&layout=compact&hide_border=true" alt="Top Languages" height="200" />
+    </td>
+  </tr>
+</table>
 
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="400" align="center" style="border: none; padding: 0; margin: 0;">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kbadeesha&show_icons=true&theme=merko&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" height="200" />
+    </td>
+    <td width="200" align="center" style="border: none; padding: 0; margin: 0;">
+      <img src="https://media.giphy.com/media/kuWN0iF9BLQKk/giphy.gif" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
+    </td>
+  </tr>
+</table>
 
-
-
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="200" align="center" style="border: none; padding: 0; margin: 0;">
+      <img src="https://media.giphy.com/media/z8OcWLLk4SrpS/giphy.gif" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
+    </td>
+    <td width="400" align="center" style="border: none; padding: 0; margin: 0;">
+       <img src="https://streak-stats.demolab.com/?user=kbadeesha&theme=merko&hide_border=true" alt="GitHub Streak Stats" height="200" />
+    </td>
+  </tr>
+</table>
+<hr/>
 
 
 
