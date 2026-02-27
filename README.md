@@ -15,7 +15,6 @@
 <hr/>
 <h3 align="left">✨ Favorite Quote:</h3>
 <p align="center">
-<img src="[https://quotes-github-readme.vercel.app/api?quote=I%20see%20now%20that%20the%20circumstances%20of%20one%27s%20birth%20are%20irrelevant.%20It%20is%20what%20you%20do%20with%20the%20gift%20of%20life%20that%20determines%20who%20you%20are.&author=Mewtwo&theme=merko&type=horizontal](https://camo.githubusercontent.com/44643f3f9731c2b08a35dc71ad3f37e1efcb96bba48fda9d5481dbe24767af34/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a5768714d4751774e5745354e5445314e475a6a6232396965444a735a6a5a6a4e5455794d795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f6e4d79384854465152577075644e776278512f67697068792e676966)" alt="Pokémon Quote" height="150" />
   <img align="right" width="250" alt="coding" src="https://media.giphy.com/media/nMy8HTFQRWpudNwbxQ/giphy.gif">
 </p>
 <hr/>
