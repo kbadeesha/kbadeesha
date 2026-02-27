@@ -10,14 +10,13 @@
 - 💬 Ask me about **ReactJS, AngularJs, NextJs, TypeScript, JavaScript & Chatbot Develpoment**  
 - 📫 How to reach me: **adeesha.kristhorubaduge@gmail.com**  
 - ⚡ Fun fact: **I build things to learn, and I learn things to build.**
-  
+  <img align="right" width="250" alt="coding" src="https://media.giphy.com/media/nMy8HTFQRWpudNwbxQ/giphy.gif">
 <hr/>
 <h3 align="left">✨ Favorite Quote:</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?quote=I%20see%20now%20that%20the%20circumstances%20of%20one%27s%20birth%20are%20irrelevant.%20It%20is%20what%20you%20do%20with%20the%20gift%20of%20life%20that%20determines%20who%20you%20are.&author=Mewtwo&theme=merko&type=horizontal" alt="Pokémon Quote" height="150" />
 </p>
 <hr/>
-<img align="right" width="250" alt="coding" src="https://media.giphy.com/media/w5hxjeMfKLf0Y/giphy.gif">
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/adeesha-kristhorubaduge-579b46199" target="_blank">
