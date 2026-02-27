@@ -76,7 +76,7 @@
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr>
     <td width="200" align="center" style="border: none; padding: 0; margin: 0;">
-     <img src="https://i.pinimg.com/originals/c8/0e/4c/c80e4ce2687a716c5264b36021915993.gif" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
+     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9udGJxZ3lkcHIzYWZrNzVkMmxkNjIzajl0emQ1MWlhcGpjZDRhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IQebREsGFRXmo/giphy.gif" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
     </td>
     <td width="400" align="center" style="border: none; padding: 0; margin: 0;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kbadeesha&show_icons=true&theme=merko&locale=en&layout=compact" alt="Top Languages" height="200" />
