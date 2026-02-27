@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=kbadeesha&label=Profile%20views&color=0e75b6&style=flat" alt="kbadeesha" />
 </p>
 <img align="right" width="250" alt="coding" src="https://camo.githubusercontent.com/b1847cc9cf7f394e8f3e8ad831b4ea0d4216e5acbe2f7b7afbac65b37bd1410f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a5768714d475177656e426e615852695a6a5a6f4e5445314e475a6a6232396965444a70636a4631636d6c6a62334e6a624455324d795a6c634431324d56397a64476c6a613256796331397a5a5746795932676d5933513963772f6e4d79384854465152577075644e776278512f67697068792e676966" alt="Header GIF" />
-<img align="right" width="250" alt="coding" src="https://raw.githubusercontent.com/kbadeesha/kbadeesha/main/assets/header.gif">
+<img align="right" width="250" alt="coding" src="[https://raw.githubusercontent.com/kbadeesha/kbadeesha/main/assets/header.gif](https://camo.githubusercontent.com/44643f3f9731c2b08a35dc71ad3f37e1efcb96bba48fda9d5481dbe24767af34/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45785a5768714d4751774e5745354e5445314e475a6a6232396965444a735a6a5a6a4e5455794d795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d5933513963772f6e4d79384854465152577075644e776278512f67697068792e676966)">
 
 - 🌱 I’m currently learning **NestJS**  &  **GoLang** 
 - 💬 Ask me about **ReactJS, AngularJs, NextJs, TypeScript, JavaScript & Chatbot Develpoment**  
