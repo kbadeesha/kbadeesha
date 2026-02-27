@@ -90,7 +90,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=kbadeesha&show_icons=true&theme=merko" alt="GitHub Stats" height="200" />
     </td>
     <td width="200" align="center" style="border: none!important; padding: 0; margin: 0; border="0"">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RhZnAyZWYyeXEzZGo4ZG51am1kOXY3bW81Mm5zYjlsbjE5dGh5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kuWN0iF9BLQKk/giphy.gif" width="200" height="200" alt="coding gif" style="border-radius:8px;" />
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2RhZnAyZWYyeXEzZGo4ZG51am1kOXY3bW81Mm5zYjlsbjE5dGh5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kuWN0iF9BLQKk/giphy.gif" width="200"  alt="coding gif" style="border-radius:8px;" />
     </td>
   </tr>
 </table>
