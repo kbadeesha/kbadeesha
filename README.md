@@ -32,28 +32,38 @@
 <h3 align="left">👾 My Technologies:</h3>
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool GIF" width="100%" height="250" /> -->
 <table align="left">
-  <!-- First Row -->
+  <!-- Row 1: Languages & Core Frameworks -->
   <tr>
+    <td align="center"><a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Golang" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" width="40" height="40"/></a></td>
     <td align="center"><a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="Angular" width="40" height="40"/></a></td>
     <td align="center"><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" width="40" height="40"/></a></td>
     <td align="center"><a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png" alt="Redux" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://docs.pmnd.rs/zustand/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/zustand.png" alt="Zustand" width="40" height="40"/></a></td>
     <td align="center"><a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" width="40" height="40"/></a></td>
     <td align="center"><a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" width="40" height="40"/></a></td>
     <td align="center"><a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" alt="Nest.js" width="40" height="40"/></a></td>
     <td align="center"><a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://babeljs.io/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/babel.png" alt="Babel" width="40" height="40"/></a></td>
+  </tr>
+  <!-- Row 2: Databases, API & Communication -->
+  <tr>
     <td align="center"><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="MongoDB" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://grpc.io/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grpc.png" alt="gRPC" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png" alt="GraphQL" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://www.apollographql.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apollo.png" alt="Apollo" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://restfulapi.net/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://kore.ai/" target="_blank"><img src="https://pbs.twimg.com/profile_images/1455483863484833792/BvJqWpP8_400x400.png" alt="Kore.ai" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://babeljs.io/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/babel.png" alt="Babel" width="40" height="40"/></a></td>
     <td align="center"><a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" width="40" height="40"/></a></td>
+  </tr>
+  <!-- Row 3: Styling, UI & DevOps -->
+  <tr>
     <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a></td>
     <td align="center"><a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" alt="Sass" width="40" height="40"/></a></td>
-  </tr>
-  <!-- Second Row -->
-  <tr>
     <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a></td>
     <td align="center"><a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" width="40" height="40"/></a></td>
@@ -63,16 +73,15 @@
     <td align="center"><a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="VSCode" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" alt="Jira" width="40" height="40"/></a></td>
+  </tr>
+  <!-- Row 4: Testing, IoT & Game Dev -->
+  <tr>
     <td align="center"><a href="https://www.selenium.dev/" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://grpc.io/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grpc.png" alt="gRPC" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://graphql.org/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/graphql.png" alt="GraphQL" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://restfulapi.net/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a></td>
     <td align="center"><a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" width="40" height="40"/></a></td>
   </tr>
 </table>
-
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool GIF" width="100%" height="250" />
 -->
 <hr/>
