@@ -74,9 +74,8 @@
   </tr>
 </table>
 
+<br/>
 <hr/>
-
-
 <h3 align="left">📊 GitHub Stats:</h3>
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr>
