@@ -21,13 +21,17 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 
-The reason your socials look weird is because you have them wrapped in separate div tags with align="center", which forces them to stack vertically and pushes them to the center of the page, breaking the "Connect with me" section flow.
+<h3 align="left">🌐 Connect with me:</h3>
 
-To fix this and make them look clean (horizontal and aligned to the left), you should place them inside a single p tag or a clean table row without the extra divs.
-
-Here is the corrected code for your Connect with me section:
-
-What I fixed:
+<p align="left">
+  <a href="https://linkedin.com/in/adeesha-kristhorubaduge" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/adeeshaxd" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+</p>
+<br/>
 </br>
 <hr/>
 
