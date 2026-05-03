@@ -35,7 +35,7 @@
     </td>
   </tr>
 </table>
-
+</br>
 <hr/>
 
 <h3 align="left">👾 My Technologies:</h3>
