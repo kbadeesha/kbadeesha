@@ -71,6 +71,11 @@
     <td align="center"><a href="https://restfulapi.net/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a></td>
     <td align="center"><a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Golang" width="40" height="40"/></a></td>
+<td align="center"><a href="https://docs.pmnd.rs/zustand/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/zustand.png" alt="Zustand" width="40" height="40"/></a></td>
+<td align="center"><a href="https://grpc.io/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grpc.png" alt="gRPC" width="40" height="40"/></a></td>
+<td align="center"><a href="https://www.apollographql.com/" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apollo.png" alt="Apollo" width="40" height="40"/></a></td>
+<td align="center"><a href="https://kore.ai/" target="_blank"><img src="https://pbs.twimg.com/profile_images/1455483863484833792/BvJqWpP8_400x400.png" alt="Kore.ai" width="40" height="40"/></a></td>
   </tr>
 </table>
 
