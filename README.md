@@ -82,9 +82,9 @@
     <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP" target="_blank"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" width="40" height="40"/></a></td>
   </tr>
 </table>
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Cool GIF" width="100%" height="250" />
--->
+</br>
 <hr/>
+
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
